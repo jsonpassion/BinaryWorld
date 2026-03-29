@@ -4,9 +4,9 @@
 
 Currently under review for **iPad** and **macOS** on the App Store. Release date **TBA**.
 
-| App Icon | Download |
+| App Icon | Download | 
 |:---:|:---:|
-| ![icon](screenshots/icon.png) | ![qr](screenshots/qr.png) |
+| <img src="screenshots/icon.png" width="200"> | TBA |  |
 
 ---
 
