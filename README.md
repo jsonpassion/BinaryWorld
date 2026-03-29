@@ -2,6 +2,14 @@
 
 > Everything is made of 0s and 1s.
 
+Currently under review for **iPad** and **macOS** on the App Store. Release date **TBA**.
+
+| App Icon | Download |
+|:---:|:---:|
+| ![icon](screenshots/icon.png) | ![qr](screenshots/qr.png) |
+
+---
+
 **Binary World** is an interactive iPad app where you experience how computers convert numbers, text, and images into binary (0s and 1s) — through visual, hands-on gameplay designed for anyone, no coding background needed.
 
 This app was my first challenge at the **Apple Swift Student Challenge 2026**, where I was selected as a **Winner**.
