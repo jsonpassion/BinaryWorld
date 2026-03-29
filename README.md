@@ -39,11 +39,9 @@ A heart image pixelates step by step into an 8x8 binary grid. Each pixel is just
 
 ## About
 
-|  |  |
-|---|---|
-| **Platform** | iPad only (iPadOS 26+) |
-| **Built with** | SwiftUI |
-| **Data Collection** | None |
+| **Platform**  | **Built with** | **Data Collection** |
+|:---:|:---:|:---:|
+| iPad only (iPadOS 26+) | SwiftUI | None |
 
 ---
 
