@@ -2,9 +2,10 @@
 
 > Everything is made of 0s and 1s.
 
-| Available on the App Store for iPad and macOS 🙌<br>👇 Download 👇|
+|👇 Download on the App Store 👇|
 |:---:|
-| <a href="https://apps.apple.com/kr/app/binary-world-ssc/id6761305723?l=en-GB"><img src="screenshots/icon.png" width="200"></a> |
+| <a href="https://apps.apple.com/kr/app/binary-world-ssc/id6761305723?l=en-GB" target="_blank"><img src="screenshots/icon.png" width="200"></a> |
+|☝️ Available on iPad and macOS ☝️|
 
 ---
 
