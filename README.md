@@ -53,6 +53,6 @@ An interactive app where you experience how computers convert numbers, text, and
 
 | **Platform** | **Built with** | **Data Collection** | **Privacy** |
 |:---:|:---:|:---:|:---:|
-| iPad & macOS (iPadOS 16+) | SwiftUI | None | [Policy](privacy.md) |
+| iPad & macOS (iPadOS 26+) | SwiftUI | None | [Policy](privacy.md) |
 
 Built by [Jason J. Lee — Tech Mentor @ Apple Developer Academy POSTECH](https://www.linkedin.com/in/json-lee)
