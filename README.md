@@ -4,9 +4,10 @@
 
 Currently under review for **iPad** and **macOS** on the App Store. Release date **TBA**.
 
-| App Icon | Download | 
-|:---:|:---:|
-| <img src="screenshots/icon.png" width="200"> | TBA |  |
+| App Icon |
+|:---:|
+| [![App Icon](screenshots/icon.png)](https://apps.apple.com/kr/app/binary-world-ssc/id6761305723?l=en-GB) |
+| Available on macOS and iPadOS only |
 
 ---
 
