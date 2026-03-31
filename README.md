@@ -1,19 +1,36 @@
 # Binary World
 
-> Everything is made of 0s and 1s.
+<table>
+<tr>
+<td width="30%" align="center">
+<a href="https://apps.apple.com/kr/app/binary-world-ssc/id6761305723?l=en-GB" target="_blank">
+<img src="screenshots/icon.png" width="160">
+</a>
+<br><br>
+<a href="https://apps.apple.com/kr/app/binary-world-ssc/id6761305723?l=en-GB" target="_blank">
+<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="140">
+</a>
+<br><br>
+<sub>Available on iPad & macOS</sub>
+</td>
+<td width="70%" valign="middle">
+<h3>Everything is made of 0s and 1s.</h3>
 
-|👇 Download on the App Store 👇|
-|:---:|
-| <a href="https://apps.apple.com/kr/app/binary-world-ssc/id6761305723?l=en-GB" target="_blank"><img src="screenshots/icon.png" width="200"></a> |
-|☝️ Available on iPad and macOS ☝️|
+An interactive iPad app where you experience how computers convert numbers, text, and images into binary (0s and 1s) — through visual, hands-on gameplay designed for anyone, no coding background needed.
 
----
+<br><br>
 
-**Binary World** is an interactive iPad app where you experience how computers convert numbers, text, and images into binary (0s and 1s) — through visual, hands-on gameplay designed for anyone, no coding background needed.
+> 🏆 **Apple Swift Student Challenge 2026 — Winner**
 
-This app was my first challenge at the **Apple Swift Student Challenge 2026**, where I was selected as a **Winner**.
+</td>
+</tr>
+</table>
 
----
+## Screenshots
+
+| Main Lobby | Clock | Message | Pixel |
+|:---:|:---:|:---:|:---:|
+| ![lobby](screenshots/lobby.png) | ![clock](screenshots/clock.png) | ![message](screenshots/message.png) | ![pixel](screenshots/pixel.png) |
 
 ## What You'll Experience
 
@@ -25,14 +42,6 @@ A chat reveals a secret: computers can't read letters. See "Hi" decompose into *
 
 ### Mission 3 — Pixel Art
 A heart image pixelates step by step into an 8x8 binary grid. Each pixel is just a single bit. Complete pixel art by reading binary hints and filling in the blanks.
-
----
-
-## Screenshots
-
-| Main Lobby | Clock | Message | Pixel |
-|:---:|:---:|:---:|:---:|
-| ![lobby](screenshots/lobby.png) | ![clock](screenshots/clock.png) | ![message](screenshots/message.png) | ![pixel](screenshots/pixel.png) |
 
 ---
 
