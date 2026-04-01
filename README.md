@@ -21,7 +21,7 @@ An interactive app where you experience how computers convert numbers, text, and
 > 🏆 **Apple Swift Student Challenge 2026 — Winner**
 </td>
 <td width="30%" align="center">
-<a href="https://github.com/jsonpassion/BinaryWorld/blob/main/video/vid.mp4">
+<a href="[https://github.com/jsonpassion/BinaryWorld/blob/main/video/vid.mp4](https://github.com/user-attachments/assets/de1ba173-3450-4491-bb86-cbed9533cc64)">
   <img src="screenshots/lobby.png" width="160"><br>
   <sub>🎥 Watch Demo Video 💫</sub>
 </a>
