@@ -21,7 +21,7 @@ An interactive app where you experience how computers convert numbers, text, and
 > 🏆 **Apple Swift Student Challenge 2026 — Winner**
 </td>
 <td width="30%" align="center">
-<img src="https://github.com/user-attachments/assets/de1ba173-3450-4491-bb86-cbed9533cc64" width="200">
+<img src="[https://github.com/user-attachments/assets/de1ba173-3450-4491-bb86-cbed9533cc64](https://github-production-user-asset-6210df.s3.amazonaws.com/99946551/572240359-de1ba173-3450-4491-bb86-cbed9533cc64.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260401%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260401T015215Z&X-Amz-Expires=300&X-Amz-Signature=2ba7ed4148ce7b19c5fa9e3318c7084bdf053ed0ebceb4a70cf82cba639419a8&X-Amz-SignedHeaders=host)" width="200">
 </td>
 </tr>
 </table>
