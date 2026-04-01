@@ -22,7 +22,7 @@ An interactive app where you experience how computers convert numbers, text, and
 </td>
 <td width="30%" align="center">
 <a href="https://github.com/user-attachments/assets/de1ba173-3450-4491-bb86-cbed9533cc64">
-  <img src="screenshots/vidimg.jpeg" width="160"><br>
+  <img src="screenshots/vidimg.jpeg" width="200"><br>
   <sub>🎥 Watch Demo Video 💫</sub>
 </a>
 </td>
