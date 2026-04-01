@@ -13,13 +13,15 @@
 <br><br>
 <sub>Available on iPad & macOS</sub>
 </td>
-<td width="70%" valign="middle">
+<td width="40%" valign="middle">
 <h3>Everything is made of 0s and 1s.</h3>
 An interactive app where you experience how computers convert numbers, text, and images into binary — through visual, hands-on gameplay designed for anyone, no coding background needed.
 <br><br>
 
 > 🏆 **Apple Swift Student Challenge 2026 — Winner**
-
+</td>
+<td width="30%" align="center">
+<video src="video/vid.mp4" width="200" autoplay loop muted playsinline></video>
 </td>
 </tr>
 </table>
