@@ -56,8 +56,17 @@ An interactive app where you experience how computers convert numbers, text, and
 
 ---
 
-| **Platform** | **Built with** | **Data Collection** | **Privacy** |
-|:---:|:---:|:---:|:---:|
-| iPad & macOS (iPadOS 26+) | SwiftUI | None | [Policy](privacy.md) |
-
-Built by [Jason J. Lee — Tech Mentor @ Apple Developer Academy POSTECH](https://www.linkedin.com/in/json-lee)
+<table>
+<tr>
+<th align="center">📱 Platform</th>
+<th align="center">🛠 Built with</th>
+<th align="center">📊 Data Collection</th>
+<th align="center">🔒 Privacy</th>
+</tr>
+<tr>
+<td align="center">iPad & macOS (iPadOS 26+)</td>
+<td align="center">SwiftUI</td>
+<td align="center">None</td>
+<td align="center"><a href="privacy.md">Policy</a></td>
+</tr>
+</table>
